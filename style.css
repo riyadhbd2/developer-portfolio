@@ -31,12 +31,14 @@ span{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+
 }
 
 .third{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    padding-bottom: 150px;
 }
 
 .last{
